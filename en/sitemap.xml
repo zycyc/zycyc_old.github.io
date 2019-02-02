@@ -4,237 +4,62 @@
   
   <url>
     <loc>https://zycyc.github.io/projects/photography/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/projects/photography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/projects/photography/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/projects/design/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/projects/design/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/projects/design/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/projects/writing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/projects/writing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/projects/writing/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/blog/hipster-ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/blog/hipster-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/blog/hipster-ipsum/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/blog/startup-ipsum/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/blog/startup-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/blog/startup-ipsum/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/blog/coffee-ipsum/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/blog/coffee-ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/blog/coffee-ipsum/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/blog/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/blog/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/tags/code/</loc>
     <lastmod>2017-11-06T12:04:06-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/tags/code/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/tags/code/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/tags/coffee/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/tags/coffee/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/tags/coffee/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/tags/images/</loc>
     <lastmod>2017-11-01T12:04:16-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/tags/images/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/tags/images/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/tags/ipsum/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/tags/ipsum/"
-                />
   </url>
   
   <url>
     <loc>https://zycyc.github.io/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/projects/"
-                />
   </url>
   
   <url>
@@ -266,21 +91,6 @@
     <loc>https://zycyc.github.io/tags/words/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/tags/words/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/tags/words/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/tags/words/"
-                />
   </url>
   
   <url>
