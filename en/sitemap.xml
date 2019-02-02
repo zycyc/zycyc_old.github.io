@@ -198,27 +198,6 @@
   </url>
   
   <url>
-    <loc>https://zycyc.github.io/</loc>
-    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://zycyc.github.io/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://zycyc.github.io/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zycyc.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zycyc.github.io/tags/ipsum/</loc>
     <lastmod>2017-11-13T11:58:39-05:00</lastmod>
     <priority>0</priority>
@@ -301,6 +280,27 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://zycyc.github.io/tags/words/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zycyc.github.io/</loc>
+    <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://zycyc.github.io/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://zycyc.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zycyc.github.io/"
                 />
   </url>
   
