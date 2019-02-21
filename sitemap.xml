@@ -15,6 +15,11 @@
   </url>
   
   <url>
+    <loc>https://zycyc.github.io/blog/what_is_love/</loc>
+    <lastmod>2019-02-20T23:54:14-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://zycyc.github.io/blog/statistical_learning/</loc>
     <lastmod>2019-02-12T23:45:52-08:00</lastmod>
   </url>
@@ -26,7 +31,13 @@
   
   <url>
     <loc>https://zycyc.github.io/blog/</loc>
-    <lastmod>2019-02-12T23:45:52-08:00</lastmod>
+    <lastmod>2019-02-20T23:54:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zycyc.github.io/tags/butterflies-inside-when-i-am-in-love-with-you/</loc>
+    <lastmod>2019-02-20T23:54:14-08:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -35,6 +46,7 @@
   
   <url>
     <loc>https://zycyc.github.io/tags/</loc>
+    <lastmod>2019-02-20T23:54:14-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +67,7 @@
   
   <url>
     <loc>https://zycyc.github.io/</loc>
-    <lastmod>2019-02-12T23:45:52-08:00</lastmod>
+    <lastmod>2019-02-20T23:54:14-08:00</lastmod>
     <priority>0</priority>
   </url>
   
