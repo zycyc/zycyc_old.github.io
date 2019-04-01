@@ -16,27 +16,28 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zycyc.github.io/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <description>I enjoy taking photos everywhere I go.
+They form the trajectory of my life and more importantly, my personal visual diary.
+My cameras include Nikon D5200, iPhone 7, iPhone SE (emeritus) and Mi 4 (emeritus).</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>https://zycyc.github.io/projects/design/</link>
+      <title>Musical Memory</title>
+      <link>https://zycyc.github.io/projects/mm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zycyc.github.io/projects/design/</guid>
-      <description>This theme was designed by Vicky Lai. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>https://zycyc.github.io/projects/mm/</guid>
+      <description>How does human learn music? The one simple answer will be repeatedly listening, but what&amp;rsquo;s the underlying neural mechanism that supports this learning process? Better memory performance is predicted by higher representational similarity between encoding and retrieval (Xue, 2010), is memory of music the same? Beyond this question, I also want to find out how cortex and hippocampus represents musical features like tempo, pitch, rhythm, and how these two representation interact to depict music learning curve.</description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>https://zycyc.github.io/projects/writing/</link>
+      <title>Serial Dependence</title>
+      <link>https://zycyc.github.io/projects/sd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zycyc.github.io/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>https://zycyc.github.io/projects/sd/</guid>
+      <description>We tend to perceive the world around us as stable in space and time, a study by Fischer and Whitney (2014) suggests that human visual perception is serially dependent, using both prior and present input to inform perception at the present moment. Specifically, perceived orientation in an orientation judgment task is likely biased towards previously seen stimuli.
+Currently I&amp;rsquo;m doing replication and relevant experiment both on-line and off-line with Dr. Mauro Manassi and Prof.</description>
     </item>
     
   </channel>
