@@ -59,5 +59,14 @@ Previous studies have found decreased oscillatory power in the theta (4-7Hz) ban
       <description>I am currently learning to apply Leabra algorithm to an unpublished result of Retrieval Induced Forgetting (RIFO) &amp;amp; Retrieval Induced Facilitation (RIFA) under supervision of Prof. Randall O&amp;rsquo;Reilly and Prof. Xiaonan Liu.</description>
     </item>
     
+    <item>
+      <title>EEG preprocessing in MATLAB</title>
+      <link>https://zycyc.github.io/projects/eeglab_pp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zycyc.github.io/projects/eeglab_pp/</guid>
+      <description>I organized template scripts for EEG preprocessing in MATLAB using EEGLAB recently. It contains a sample dataset and documented .m scripts needed to onboard EEG beginners. Read more about this template here.</description>
+    </item>
+    
   </channel>
 </rss>

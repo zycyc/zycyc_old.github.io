@@ -61,6 +61,15 @@ Previous studies have found decreased oscillatory power in the theta (4-7Hz) ban
     </item>
     
     <item>
+      <title>EEG preprocessing in MATLAB</title>
+      <link>https://zycyc.github.io/projects/eeglab_pp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zycyc.github.io/projects/eeglab_pp/</guid>
+      <description>I organized template scripts for EEG preprocessing in MATLAB using EEGLAB recently. It contains a sample dataset and documented .m scripts needed to onboard EEG beginners. Read more about this template here.</description>
+    </item>
+    
+    <item>
       <title>Research Ideas</title>
       <link>https://zycyc.github.io/blog/research_ideas/</link>
       <pubDate>Fri, 30 Aug 2019 10:41:17 -0700</pubDate>
